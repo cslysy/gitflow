@@ -6,5 +6,5 @@ git commit -m"commit message"
 
 | Code        | Result             |
 | ------------- |:-------------:   |
-| CUTIE1        | 99 lives         |
+| CUTIE1        | 120 lives         |
 | BIGSCORE      | 10 million points|
